@@ -10,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 918,
-    "timeDay": 918,
-    "timeWeek": 918,
-    "timeMonth": 918,
-    "timeYear": 918,
+    "time": 986,
+    "timeDay": 986,
+    "timeWeek": 986,
+    "timeMonth": 986,
+    "timeYear": 986,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "test failing site",
+    "url": "https://www.grundsteuererklaerung-fuer-privateigentum.de/123",
+    "icon": "https://favicons.githubusercontent.com/www.grundsteuererklaerung-fuer-privateigentum.de",
+    "slug": "test-failing-site",
+    "status": "down",
+    "uptime": "36.99%",
+    "uptimeDay": "36.99%",
+    "uptimeWeek": "36.99%",
+    "uptimeMonth": "36.99%",
+    "uptimeYear": "36.99%",
+    "time": 127,
+    "timeDay": 127,
+    "timeWeek": 127,
+    "timeMonth": 127,
+    "timeYear": 127,
+    "dailyMinutesDown": {
+      "2022-03-30": 0
+    }
   }
 ]
