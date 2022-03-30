@@ -11,3 +11,6 @@ sites:
       - joschka
       - shrzaf
       - frederike-ramin
+      
+  - name: DigitalService Website
+    url: https://digitalservice.bund.de/
