@@ -3,4 +3,11 @@ repo: uptime-monitor
 
 sites:
   - name: Grundsteuer
-    url: https://www.grundsteuererklaerung-fuer-privateigentum.de  
+    url: https://www.grundsteuererklaerung-fuer-privateigentum.de
+    icon: https://www.grundsteuererklaerung-fuer-privateigentum.de/favicon.ico
+    maxResponseTime: 5000
+    assignees:
+      - nfelger
+      - joschka
+      - shrzaf
+      - frederike-ramin
