@@ -3,7 +3,4 @@ repo: uptime-monitor
 
 sites:
   - name: Grundsteuer
-    url: https://www.grundsteuererklaerung-fuer-privateigentum.de
-  - name: test another failing site
-    url: https://www.grundsteuererklaerung-fuer-privateigentum.de/234
-  
+    url: https://www.grundsteuererklaerung-fuer-privateigentum.de  
