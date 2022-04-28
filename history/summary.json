@@ -22,7 +22,7 @@
     "url": "https://digitalservice.bund.de/",
     "icon": "https://favicons.githubusercontent.com/digitalservice.bund.de",
     "slug": "digital-service-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 699,
     "timeMonth": 697,
     "timeYear": 697,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-28": 0
+    }
   }
 ]
