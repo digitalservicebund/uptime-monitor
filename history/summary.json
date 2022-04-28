@@ -22,19 +22,19 @@
     "url": "https://digitalservice.bund.de/",
     "icon": "https://favicons.githubusercontent.com/digitalservice.bund.de",
     "slug": "digital-service-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 697,
-    "timeDay": 502,
-    "timeWeek": 699,
-    "timeMonth": 697,
-    "timeYear": 697,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 699,
+    "timeDay": 632,
+    "timeWeek": 707,
+    "timeMonth": 699,
+    "timeYear": 699,
     "dailyMinutesDown": {
-      "2022-04-28": 0
+      "2022-04-28": 13
     }
   }
 ]
