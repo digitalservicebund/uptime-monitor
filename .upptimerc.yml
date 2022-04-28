@@ -14,3 +14,19 @@ sites:
       
   - name: DigitalService Website
     url: https://digitalservice.bund.de/
+
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  baseUrl: /uptime-monitor
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: DigitalService status
+  introTitle: "**DigitalService** Service Status"
+  introMessage: Für ein digitales Deutschland
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/digitalservice4germany
+    - title: Webseite
+      href: https://digitalservice.bund.de/
