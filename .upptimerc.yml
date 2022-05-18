@@ -11,9 +11,14 @@ sites:
       - joschka
       - shrzaf
       - frederike-ramin
-      
+
   - name: DigitalService Website
     url: https://digitalservice.bund.de/
+
+  - name: Agora
+    url: https://agora-oegd.de
+    assignees:
+      - zechmeister
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
