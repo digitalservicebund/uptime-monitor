@@ -17,6 +17,9 @@ sites:
 
   - name: Agora
     url: https://agora-oegd.de
+    expectedStatusCodes:
+      - 200
+      - 302
     assignees:
       - zechmeister
 
@@ -32,6 +35,6 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/digitalservice4germany
+      href: https://github.com/digitalservice4germany`
     - title: Webseite
       href: https://digitalservice.bund.de/
