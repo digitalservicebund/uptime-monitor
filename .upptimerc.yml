@@ -17,6 +17,8 @@ sites:
 
   - name: Agora
     url: https://agora-oegd.de
+    icon: https://nutzerinnenverwaltung.agora-oegd.de/auth/resources/72dib/login/agora/img/favicon.ico
+    __dangerous__disable_verify_peer: true
     expectedStatusCodes:
       - 200
       - 302
