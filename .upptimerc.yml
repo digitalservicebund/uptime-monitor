@@ -25,6 +25,15 @@ sites:
     assignees:
       - zechmeister
 
+  - name: STL-Rente
+    url: https://www.steuerlotse-rente.de/
+    icon: https://www.steuerlotse-rente.de/favicon.ico
+    maxResponseTime: 5000
+    assignees:
+      - VictorDelCampo
+      - SannyNguyenHung
+      - hamo225
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
