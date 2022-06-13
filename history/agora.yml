@@ -1,7 +1,7 @@
 url: https://agora-oegd.de
-status: up
-code: 200
-responseTime: 535
-lastUpdated: 2022-06-12T23:05:52.352Z
+status: down
+code: 503
+responseTime: 769
+lastUpdated: 2022-06-13T13:27:03.072Z
 startTime: Wed May 18 2022 14:53:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
