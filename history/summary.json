@@ -4,9 +4,9 @@
     "url": "https://www.grundsteuererklaerung-fuer-privateigentum.de",
     "icon": "https://www.grundsteuererklaerung-fuer-privateigentum.de/favicon.ico",
     "slug": "grundsteuer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1063,
     "timeMonth": 1006,
     "timeYear": 955,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-27": 0
+    }
   },
   {
     "name": "DigitalService Website",
@@ -41,11 +43,11 @@
     "icon": "https://nutzerinnenverwaltung.agora-oegd.de/auth/resources/72dib/login/agora/img/favicon.ico",
     "slug": "agora",
     "status": "up",
-    "uptime": "96.60%",
+    "uptime": "96.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.51%",
-    "uptimeYear": "96.60%",
+    "uptimeYear": "96.63%",
     "time": 1636,
     "timeDay": 2629,
     "timeWeek": 2191,
