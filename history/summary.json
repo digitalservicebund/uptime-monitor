@@ -4,19 +4,19 @@
     "url": "https://www.grundsteuererklaerung-fuer-privateigentum.de",
     "icon": "https://www.grundsteuererklaerung-fuer-privateigentum.de/favicon.ico",
     "slug": "grundsteuer",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 955,
-    "timeDay": 1253,
-    "timeWeek": 1063,
-    "timeMonth": 1006,
-    "timeYear": 955,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 956,
+    "timeDay": 1151,
+    "timeWeek": 1061,
+    "timeMonth": 1007,
+    "timeYear": 956,
     "dailyMinutesDown": {
-      "2022-06-27": 0
+      "2022-06-27": 19
     }
   },
   {
