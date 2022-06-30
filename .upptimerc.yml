@@ -1,4 +1,4 @@
-owner: digitalservice4germany
+owner: digitalservicebund
 repo: uptime-monitor
 
 sites:
@@ -46,6 +46,6 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/digitalservice4germany`
+      href: https://github.com/digitalservicebund`
     - title: Webseite
       href: https://digitalservice.bund.de/
