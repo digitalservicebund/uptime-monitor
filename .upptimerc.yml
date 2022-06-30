@@ -6,11 +6,6 @@ sites:
     url: https://www.grundsteuererklaerung-fuer-privateigentum.de
     icon: https://www.grundsteuererklaerung-fuer-privateigentum.de/favicon.ico
     maxResponseTime: 5000
-    assignees:
-      - nfelger
-      - joschka
-      - shrzaf
-      - frederike-ramin
 
   - name: DigitalService Website
     url: https://digitalservice.bund.de/
@@ -29,10 +24,6 @@ sites:
     url: https://www.steuerlotse-rente.de/
     icon: https://www.steuerlotse-rente.de/favicon.ico
     maxResponseTime: 5000
-    assignees:
-      - VictorDelCampo
-      - SannyNguyenHung
-      - hamo225
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
