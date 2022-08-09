@@ -43,11 +43,11 @@
     "icon": "https://nutzerinnenverwaltung.agora-oegd.de/auth/resources/72dib/login/agora/img/favicon.ico",
     "slug": "agora",
     "status": "up",
-    "uptime": "98.36%",
+    "uptime": "98.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "98.36%",
+    "uptimeYear": "98.38%",
     "time": 1846,
     "timeDay": 2266,
     "timeWeek": 2157,
@@ -68,9 +68,9 @@
     "url": "https://www.steuerlotse-rente.de/",
     "icon": "https://www.steuerlotse-rente.de/favicon.ico",
     "slug": "stl-rente",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -80,6 +80,7 @@
     "timeMonth": 1455,
     "timeYear": 1401,
     "dailyMinutesDown": {
+      "2022-08-09": 0,
       "2022-08-05": 17
     }
   }
