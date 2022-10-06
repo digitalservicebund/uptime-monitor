@@ -27,7 +27,7 @@ sites:
 
   - name: eid
     url: https://eid.digitalservicebund.de/actuator/health
-    icon: https://digitalservice.bund.de/favicon-16x16.png
+    icon: https://eid.digitalservicebund.de/images/favicon.png
     maxResponseTime: 5000
 
 status-website:
