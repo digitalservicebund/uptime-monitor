@@ -25,6 +25,11 @@ sites:
     icon: https://www.steuerlotse-rente.de/favicon.ico
     maxResponseTime: 5000
 
+  - name: eid
+    url: https://eid.digitalservicebund.de/actuator/health
+    icon: https://digitalservice.bund.de/favicon-16x16.png
+    maxResponseTime: 5000
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
