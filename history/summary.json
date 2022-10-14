@@ -12,7 +12,7 @@
     "uptimeYear": "99.84%",
     "time": 1498,
     "timeDay": 1802,
-    "timeWeek": 1458,
+    "timeWeek": 1498,
     "timeMonth": 2178,
     "timeYear": 1498,
     "dailyMinutesDown": {
@@ -39,7 +39,7 @@
     "uptimeYear": "100.00%",
     "time": 1283,
     "timeDay": 1418,
-    "timeWeek": 1411,
+    "timeWeek": 1369,
     "timeMonth": 1411,
     "timeYear": 1283,
     "dailyMinutesDown": {}
@@ -57,7 +57,7 @@
     "uptimeYear": "99.07%",
     "time": 1965,
     "timeDay": 2638,
-    "timeWeek": 2274,
+    "timeWeek": 2298,
     "timeMonth": 2132,
     "timeYear": 1965,
     "dailyMinutesDown": {
@@ -84,7 +84,7 @@
     "uptimeYear": "99.94%",
     "time": 1321,
     "timeDay": 1888,
-    "timeWeek": 1617,
+    "timeWeek": 1682,
     "timeMonth": 1259,
     "timeYear": 1321,
     "dailyMinutesDown": {
@@ -97,17 +97,19 @@
     "url": "https://eid.digitalservicebund.de/actuator/health",
     "icon": "https://eid.digitalservicebund.de/images/favicon.png",
     "slug": "eid",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 802,
-    "timeDay": 887,
-    "timeWeek": 802,
-    "timeMonth": 802,
-    "timeYear": 802,
-    "dailyMinutesDown": {}
+    "time": 1460,
+    "timeDay": 3808,
+    "timeWeek": 1550,
+    "timeMonth": 1460,
+    "timeYear": 1460,
+    "dailyMinutesDown": {
+      "2022-10-14": 0
+    }
   }
 ]
