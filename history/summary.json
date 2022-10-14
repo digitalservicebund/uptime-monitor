@@ -97,19 +97,19 @@
     "url": "https://eid.digitalservicebund.de/actuator/health",
     "icon": "https://eid.digitalservicebund.de/images/favicon.png",
     "slug": "eid",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1460,
-    "timeDay": 3808,
-    "timeWeek": 1550,
-    "timeMonth": 1460,
-    "timeYear": 1460,
+    "status": "up",
+    "uptime": "99.33%",
+    "uptimeDay": "95.27%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
+    "time": 1428,
+    "timeDay": 2918,
+    "timeWeek": 1505,
+    "timeMonth": 1428,
+    "timeYear": 1428,
     "dailyMinutesDown": {
-      "2022-10-14": 0
+      "2022-10-14": 68
     }
   }
 ]
