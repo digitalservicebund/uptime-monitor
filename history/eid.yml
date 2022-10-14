@@ -1,7 +1,7 @@
 url: https://eid.digitalservicebund.de/actuator/health
-status: degraded
-code: 503
-responseTime: 6728
-lastUpdated: 2022-10-14T09:34:06.363Z
+status: up
+code: 200
+responseTime: 1140
+lastUpdated: 2022-10-14T10:42:13.038Z
 startTime: Fri Oct 07 2022 09:17:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
