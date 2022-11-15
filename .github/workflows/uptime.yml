@@ -24,8 +24,6 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT }}
-      - name: Check runner ip address
-        run: curl 'https://api.ipify.org?format=json'
       - name: Check endpoint status
         uses: upptime/uptime-monitor@v1.28.0
         with:
