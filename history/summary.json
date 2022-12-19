@@ -45,19 +45,19 @@
     "url": "https://digitalservice.bund.de/",
     "icon": "https://icons.duckduckgo.com/ip3/digitalservice.bund.de.ico",
     "slug": "digital-service-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1328,
-    "timeDay": 1671,
-    "timeWeek": 1592,
-    "timeMonth": 1555,
-    "timeYear": 1328,
+    "time": 1333,
+    "timeDay": 2174,
+    "timeWeek": 1728,
+    "timeMonth": 1591,
+    "timeYear": 1333,
     "dailyMinutesDown": {
-      "2022-12-19": 0
+      "2022-12-19": 17
     }
   },
   {
