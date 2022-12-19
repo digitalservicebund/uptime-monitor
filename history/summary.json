@@ -45,9 +45,9 @@
     "url": "https://digitalservice.bund.de/",
     "icon": "https://icons.duckduckgo.com/ip3/digitalservice.bund.de.ico",
     "slug": "digital-service-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,7 +56,9 @@
     "timeWeek": 1592,
     "timeMonth": 1555,
     "timeYear": 1328,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-19": 0
+    }
   },
   {
     "name": "Agora",
@@ -113,11 +115,11 @@
     "icon": "https://eid.digitalservicebund.de/images/favicon.png",
     "slug": "eid",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 1074,
     "timeDay": 826,
     "timeWeek": 806,
