@@ -1,7 +1,7 @@
 url: https://eid.digitalservicebund.de/actuator/health
 status: up
 code: 200
-responseTime: 496
-lastUpdated: 2022-12-29T23:05:57.441Z
+responseTime: 823
+lastUpdated: 2022-12-30T23:05:52.555Z
 startTime: Fri Oct 07 2022 09:17:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
