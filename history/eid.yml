@@ -1,7 +1,7 @@
 url: https://eid.digitalservicebund.de/actuator/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-01-25T08:04:47.257Z
+status: up
+code: 200
+responseTime: 908
+lastUpdated: 2023-01-25T08:38:06.184Z
 startTime: Fri Oct 07 2022 09:17:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
