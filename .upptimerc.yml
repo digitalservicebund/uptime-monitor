@@ -11,16 +11,6 @@ sites:
   - name: DigitalService Website
     url: https://digitalservice.bund.de/
 
-  - name: Agora
-    url: https://agora-oegd.de
-    icon: https://nutzerinnenverwaltung.agora-oegd.de/auth/resources/72dib/login/agora/img/favicon.ico
-    __dangerous__disable_verify_peer: true
-    expectedStatusCodes:
-      - 200
-      - 302
-    assignees:
-      - zechmeister
-
   - name: STL-Rente
     url: https://www.steuerlotse-rente.de/
     icon: https://www.steuerlotse-rente.de/icons/favicon-7513565893cdbbe9a25aff1019125837.png
