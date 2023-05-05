@@ -17,7 +17,7 @@ sites:
     maxResponseTime: 5000
 
   - name: eid
-    url: https://eid.digitalservicebund.de/api/v1//eidservice/health
+    url: https://eid.digitalservicebund.de/api/v1/eidservice/health
     icon: https://eid.digitalservicebund.de/images/favicon.png
     maxResponseTime: 5000
     __dangerous__body_degraded_if_text_missing: '"status":"UP"'
