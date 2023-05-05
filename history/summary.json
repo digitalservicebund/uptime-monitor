@@ -87,12 +87,12 @@
   },
   {
     "name": "eid",
-    "url": "https://eid.digitalservicebund.de/actuator/health",
+    "url": "https://eid.digitalservicebund.de/api/v1//eidservice/health",
     "icon": "https://eid.digitalservicebund.de/images/favicon.png",
     "slug": "eid",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -102,6 +102,7 @@
     "timeMonth": 709,
     "timeYear": 879,
     "dailyMinutesDown": {
+      "2023-05-05": 0,
       "2023-01-25": 33,
       "2022-10-14": 68
     }
