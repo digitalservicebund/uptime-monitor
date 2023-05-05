@@ -1,7 +1,7 @@
-url: https://eid.digitalservicebund.de/api/v1//eidservice/health
+url: https://eid.digitalservicebund.de/api/v1/eidservice/health
 status: degraded
-code: 400
-responseTime: 605
-lastUpdated: 2023-05-05T12:03:54.825Z
+code: 404
+responseTime: 639
+lastUpdated: 2023-05-05T12:13:23.537Z
 startTime: Fri Oct 07 2022 09:17:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
