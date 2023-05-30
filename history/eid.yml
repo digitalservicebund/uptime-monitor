@@ -1,7 +1,7 @@
 url: https://eid.digitalservicebund.de/api/v1/health
-status: degraded
+status: up
 code: 200
-responseTime: 5535
-lastUpdated: 2023-05-30T22:55:04.504Z
+responseTime: 4780
+lastUpdated: 2023-05-30T23:06:16.924Z
 startTime: Fri Oct 07 2022 09:17:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
