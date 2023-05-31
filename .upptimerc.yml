@@ -20,7 +20,6 @@ sites:
     url: https://eid.digitalservicebund.de/api/v1/health
     icon: https://eid.digitalservicebund.de/images/favicon.png
     maxResponseTime: 5000
-    __dangerous__body_degraded_if_text_missing: '"status":"UP"'
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
