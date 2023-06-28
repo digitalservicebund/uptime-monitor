@@ -15,11 +15,6 @@ sites:
     url: https://www.steuerlotse-rente.de/
     icon: https://www.steuerlotse-rente.de/icons/favicon-7513565893cdbbe9a25aff1019125837.png
     maxResponseTime: 5000
-
-  - name: eid
-    url: https://eid.digitalservicebund.de/actuator/health
-    icon: https://eid.digitalservicebund.de/images/favicon.png
-    maxResponseTime: 5000
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
