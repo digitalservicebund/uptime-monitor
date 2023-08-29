@@ -30,3 +30,8 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
 - Code: [MIT](./LICENSE) © [DigitalService GmbH des Bundes](https://digitalservice.bund.de)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
+
+
+## Opsgenie Integration
+
+Upptime will create a new issue if the page is down. For example: "service.justiz.de is down". To add an Opsgenie trigger for a service you need to add a new workflow under .github/workflows/ that will be executed when a new issue is created. An implementation can be found at: .github/workflows/service.justiz.de-opsgenie-trigger.yml. To get an API key in OpsGenie you have to add an API integration in the corresponding team with the following option: "Create and Update Access" and add the new api key to the github secrets. 
