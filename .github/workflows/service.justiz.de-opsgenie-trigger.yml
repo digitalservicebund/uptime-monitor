@@ -12,8 +12,8 @@ jobs:
     steps:
     - name: Check Issue Title and Trigger OpsGenie
       env:
-        A2J_OPSGENIE_WEBHOOK_URL: ${{ secrets.A2J_OPSGENIE_WEBHOOK_URL }}
+        A2J_OPSGENIE_KEY: ${{ secrets.A2J_OPSGENIE_KEY }}
       if: contains(github.event.issue.title, 'service.justiz.de is down')
       run: |
         echo "Creating OpsGenie alert for 'service.justiz.de is down' issue..."
-        curl -X POST -H "Content-Type: application/json" -d '{"message": "service.justiz.de is down", "alias": "${{ github.event.issue.number }}", "source": "uptime"}' $A2J_OPSGENIE_WEBHOOK_URL
+        curl -X POST https://api.opsgenie.com/v2/alerts -H "Content-Type: application/json" -H "Authorization: GenieKey $A2J_OPSGENIE_KEY" -d '{"message": "service.justiz.de is down","alias": "${{ github.event.issue.number }}"}'
