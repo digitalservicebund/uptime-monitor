@@ -82,17 +82,19 @@
     "url": "https://service.justiz.de/",
     "icon": "https://service.justiz.de/favicon.ico",
     "slug": "service-justiz-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 781,
-    "timeDay": 618,
-    "timeWeek": 703,
-    "timeMonth": 781,
-    "timeYear": 781,
-    "dailyMinutesDown": {}
+    "time": 777,
+    "timeDay": 655,
+    "timeWeek": 702,
+    "timeMonth": 777,
+    "timeYear": 777,
+    "dailyMinutesDown": {
+      "2023-09-17": 0
+    }
   }
 ]
