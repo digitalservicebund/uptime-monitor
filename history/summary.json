@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 1519,
-    "timeDay": 399,
-    "timeWeek": 434,
-    "timeMonth": 753,
-    "timeYear": 1494,
+    "time": 1517,
+    "timeDay": 666,
+    "timeWeek": 480,
+    "timeMonth": 729,
+    "timeYear": 1492,
     "dailyMinutesDown": {
       "2023-01-25": 63,
       "2023-01-15": 57,
@@ -32,8 +32,7 @@
       "2022-11-03": 60,
       "2022-11-01": 24,
       "2022-10-31": 208,
-      "2022-10-02": 28,
-      "2022-09-18": 28
+      "2022-10-02": 28
     }
   },
   {
@@ -47,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1505,
-    "timeDay": 989,
-    "timeWeek": 1538,
-    "timeMonth": 1581,
-    "timeYear": 1515,
+    "time": 1507,
+    "timeDay": 2123,
+    "timeWeek": 1650,
+    "timeMonth": 1585,
+    "timeYear": 1516,
     "dailyMinutesDown": {
       "2023-01-25": 93,
       "2022-12-19": 17
@@ -69,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 863,
-    "timeDay": 628,
-    "timeWeek": 447,
-    "timeMonth": 517,
+    "timeDay": 852,
+    "timeWeek": 525,
+    "timeMonth": 519,
     "timeYear": 726,
     "dailyMinutesDown": {
       "2023-01-25": 33
@@ -83,18 +82,16 @@
     "icon": "https://service.justiz.de/favicon.ico",
     "slug": "service-justiz-de",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 770,
-    "timeDay": 649,
-    "timeWeek": 694,
-    "timeMonth": 770,
-    "timeYear": 770,
-    "dailyMinutesDown": {
-      "2023-09-17": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 782,
+    "timeDay": 789,
+    "timeWeek": 742,
+    "timeMonth": 782,
+    "timeYear": 782,
+    "dailyMinutesDown": {}
   }
 ]
