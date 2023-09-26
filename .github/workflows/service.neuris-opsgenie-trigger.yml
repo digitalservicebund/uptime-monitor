@@ -1,0 +1,19 @@
+name: OpsGenie Webhook on Down Service Issue for Neuris
+
+on:
+  issues:
+    types:
+      - opened
+
+jobs:
+  trigger_opsgenie:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check Issue Title and Trigger OpsGenie
+        env:
+          NEURIS_OPSGENIE_KEY: ${{ secrets.NEURIS_OPSGENIE_KEY }}
+        if: contains(github.event.issue.title, 'Neuris is down')
+        run: |
+          echo "Creating OpsGenie alert for 'Neuris is down' issue..."
+          curl -X POST https://api.opsgenie.com/v2/alerts -H "Content-Type: application/json" -H "Authorization: GenieKey $NEURIS_OPSGENIE_KEY" -d '{"message": "Neuris is down","alias": "${{ github.event.issue.number }}"}'
