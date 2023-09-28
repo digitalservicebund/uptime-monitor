@@ -22,7 +22,7 @@ sites:
     maxResponseTime: 5000
 
   - name: Neuris
-    url: https://ris.prod.ds4g.net/
+    url: https://ris.dev.ds4g.net/
     maxResponseTime: 5000
     
 status-website:
