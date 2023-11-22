@@ -1,7 +1,7 @@
 url: https://service.justiz.de/
-status: down
-code: 502
-responseTime: 487
-lastUpdated: 2023-11-22T16:07:02.313Z
+status: up
+code: 200
+responseTime: 594
+lastUpdated: 2023-11-22T16:20:41.077Z
 startTime: 2023-08-29T14:21:30.320Z
 generator: Upptime <https://github.com/upptime/upptime>
