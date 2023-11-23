@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1294,
-    "timeDay": 626,
-    "timeWeek": 432,
-    "timeMonth": 452,
-    "timeYear": 1244,
+    "time": 1292,
+    "timeDay": 558,
+    "timeWeek": 456,
+    "timeMonth": 448,
+    "timeYear": 1235,
     "dailyMinutesDown": {
       "2023-01-25": 63,
       "2023-01-15": 57
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1503,
-    "timeDay": 2108,
-    "timeWeek": 1387,
-    "timeMonth": 1417,
-    "timeYear": 1524,
+    "time": 1502,
+    "timeDay": 1104,
+    "timeWeek": 1403,
+    "timeMonth": 1406,
+    "timeYear": 1523,
     "dailyMinutesDown": {
       "2023-01-25": 93,
       "2022-12-19": 17
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 737,
-    "timeDay": 773,
-    "timeWeek": 467,
-    "timeMonth": 468,
-    "timeYear": 580,
+    "time": 735,
+    "timeDay": 352,
+    "timeWeek": 472,
+    "timeMonth": 460,
+    "timeYear": 579,
     "dailyMinutesDown": {
       "2023-01-25": 33
     }
@@ -67,19 +67,17 @@
     "icon": "https://service.justiz.de/favicon.ico",
     "slug": "service-justiz-de",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 759,
-    "timeDay": 699,
-    "timeWeek": 703,
-    "timeMonth": 734,
+    "timeDay": 600,
+    "timeWeek": 714,
+    "timeMonth": 725,
     "timeYear": 759,
-    "dailyMinutesDown": {
-      "2023-11-22": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Neuris",
@@ -93,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 665,
-    "timeDay": 915,
-    "timeWeek": 670,
-    "timeMonth": 671,
+    "timeDay": 645,
+    "timeWeek": 685,
+    "timeMonth": 662,
     "timeYear": 665,
     "dailyMinutesDown": {}
   }
