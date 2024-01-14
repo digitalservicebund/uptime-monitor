@@ -5,18 +5,17 @@
     "icon": "https://www.grundsteuererklaerung-fuer-privateigentum.de/favicon.ico",
     "slug": "grundsteuer",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1221,
-    "timeDay": 5688,
-    "timeWeek": 2224,
-    "timeMonth": 937,
-    "timeYear": 1092,
+    "time": 1220,
+    "timeDay": 5679,
+    "timeWeek": 2222,
+    "timeMonth": 932,
+    "timeYear": 1085,
     "dailyMinutesDown": {
-      "2024-01-13": 9,
       "2023-01-25": 63,
       "2023-01-15": 57
     }
@@ -32,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1520,
-    "timeDay": 1767,
-    "timeWeek": 2013,
-    "timeMonth": 1707,
-    "timeYear": 1536,
+    "time": 1522,
+    "timeDay": 1855,
+    "timeWeek": 2003,
+    "timeMonth": 1721,
+    "timeYear": 1537,
     "dailyMinutesDown": {
       "2023-01-25": 93
     }
@@ -53,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 655,
-    "timeDay": 386,
-    "timeWeek": 464,
-    "timeMonth": 464,
-    "timeYear": 467,
+    "timeDay": 239,
+    "timeWeek": 449,
+    "timeMonth": 461,
+    "timeYear": 466,
     "dailyMinutesDown": {
       "2023-01-25": 33
     }
@@ -72,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 755,
-    "timeDay": 612,
-    "timeWeek": 752,
-    "timeMonth": 729,
-    "timeYear": 755,
+    "time": 754,
+    "timeDay": 646,
+    "timeWeek": 757,
+    "timeMonth": 723,
+    "timeYear": 754,
     "dailyMinutesDown": {}
   },
   {
@@ -90,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 651,
-    "timeDay": 666,
-    "timeWeek": 679,
-    "timeMonth": 627,
-    "timeYear": 651,
+    "time": 650,
+    "timeDay": 556,
+    "timeWeek": 670,
+    "timeMonth": 622,
+    "timeYear": 650,
     "dailyMinutesDown": {}
   }
 ]
