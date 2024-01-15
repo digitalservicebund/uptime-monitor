@@ -16,8 +16,7 @@
     "timeMonth": 941,
     "timeYear": 1079,
     "dailyMinutesDown": {
-      "2023-01-25": 63,
-      "2023-01-15": 57
+      "2023-01-25": 63
     }
   },
   {
@@ -47,9 +46,9 @@
     "slug": "stl-rente",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 653,
     "timeDay": 608,
@@ -57,7 +56,6 @@
     "timeMonth": 474,
     "timeYear": 467,
     "dailyMinutesDown": {
-      "2024-01-14": 8,
       "2023-01-25": 33
     }
   },
