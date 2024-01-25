@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1204,
-    "timeDay": 530,
-    "timeWeek": 524,
-    "timeMonth": 954,
-    "timeYear": 951,
-    "dailyMinutesDown": {
-      "2023-01-25": 63
-    }
+    "time": 1201,
+    "timeDay": 338,
+    "timeWeek": 505,
+    "timeMonth": 955,
+    "timeYear": 943,
+    "dailyMinutesDown": {}
   },
   {
     "name": "DigitalService Website",
@@ -30,14 +28,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1533,
-    "timeDay": 2933,
-    "timeWeek": 1858,
-    "timeMonth": 1846,
-    "timeYear": 1554,
-    "dailyMinutesDown": {
-      "2023-01-25": 93
-    }
+    "time": 1534,
+    "timeDay": 1568,
+    "timeWeek": 1867,
+    "timeMonth": 1837,
+    "timeYear": 1555,
+    "dailyMinutesDown": {}
   },
   {
     "name": "STL-Rente",
@@ -50,14 +46,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 640,
-    "timeDay": 534,
-    "timeWeek": 578,
-    "timeMonth": 488,
+    "time": 638,
+    "timeDay": 343,
+    "timeWeek": 538,
+    "timeMonth": 493,
     "timeYear": 469,
-    "dailyMinutesDown": {
-      "2023-01-25": 33
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "service.justiz.de",
@@ -70,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 761,
-    "timeDay": 877,
-    "timeWeek": 895,
-    "timeMonth": 767,
-    "timeYear": 761,
+    "time": 760,
+    "timeDay": 590,
+    "timeWeek": 837,
+    "timeMonth": 770,
+    "timeYear": 760,
     "dailyMinutesDown": {}
   },
   {
@@ -88,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 655,
-    "timeDay": 863,
-    "timeWeek": 732,
+    "time": 654,
+    "timeDay": 509,
+    "timeWeek": 697,
     "timeMonth": 651,
-    "timeYear": 655,
+    "timeYear": 654,
     "dailyMinutesDown": {}
   }
 ]
