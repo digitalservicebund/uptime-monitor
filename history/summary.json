@@ -76,18 +76,20 @@
     "url": "https://ris.prod.ds4g.net/",
     "icon": "https://icons.duckduckgo.com/ip3/ris.prod.ds4g.net.ico",
     "slug": "neuris",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 651,
-    "timeDay": 549,
-    "timeWeek": 568,
-    "timeMonth": 623,
-    "timeYear": 651,
-    "dailyMinutesDown": {}
+    "time": 650,
+    "timeDay": 543,
+    "timeWeek": 564,
+    "timeMonth": 620,
+    "timeYear": 650,
+    "dailyMinutesDown": {
+      "2024-03-15": 0
+    }
   },
   {
     "name": "Digitalcheck Werkzeugfinder",
