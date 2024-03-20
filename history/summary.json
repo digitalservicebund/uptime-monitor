@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ris.prod.ds4g.net.ico",
     "slug": "neuris",
     "status": "down",
-    "uptime": "99.45%",
+    "uptime": "99.44%",
     "uptimeDay": "21.14%",
-    "uptimeWeek": "86.03%",
-    "uptimeMonth": "96.79%",
-    "uptimeYear": "99.45%",
+    "uptimeWeek": "85.94%",
+    "uptimeMonth": "96.77%",
+    "uptimeYear": "99.44%",
     "time": 648,
     "timeDay": 525,
     "timeWeek": 593,
     "timeMonth": 614,
     "timeYear": 648,
     "dailyMinutesDown": {
-      "2024-03-20": 631,
+      "2024-03-20": 640,
       "2024-03-19": 629,
       "2024-03-15": 148
     }
@@ -98,19 +98,19 @@
     "url": "https://digitalcheck-tool-finder.prod.ds4g.net/",
     "icon": "https://icons.duckduckgo.com/ip3/digitalcheck-tool-finder.prod.ds4g.net.ico",
     "slug": "digitalcheck-werkzeugfinder",
-    "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "97.91%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
-    "time": 660,
-    "timeDay": 673,
-    "timeWeek": 660,
-    "timeMonth": 660,
-    "timeYear": 660,
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "97.29%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
+    "time": 662,
+    "timeDay": 674,
+    "timeWeek": 662,
+    "timeMonth": 662,
+    "timeYear": 662,
     "dailyMinutesDown": {
-      "2024-03-20": 30
+      "2024-03-20": 39
     }
   }
 ]
