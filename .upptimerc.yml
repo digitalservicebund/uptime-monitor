@@ -26,7 +26,7 @@ sites:
     maxResponseTime: 5000
 
   - name: Digitalcheck Werkzeugfinder
-    url: https://visualisieren.digitalcheck.bund.de/
+    url: https://digitalcheck-tool-finder.prod.ds4g.net/
     maxResponseTime: 5000
     
 status-website:
