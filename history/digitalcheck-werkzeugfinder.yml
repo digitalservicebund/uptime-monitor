@@ -1,7 +1,7 @@
-url: https://visualisieren.digitalcheck.bund.de/
-status: down
-code: 404
-responseTime: 1025
-lastUpdated: 2024-03-20T14:26:57.741Z
+url: https://digitalcheck-tool-finder.prod.ds4g.net/
+status: up
+code: 200
+responseTime: 604
+lastUpdated: 2024-03-20T14:56:51.029Z
 startTime: 2024-03-14T15:23:26.935Z
 generator: Upptime <https://github.com/upptime/upptime>
