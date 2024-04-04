@@ -28,6 +28,10 @@ sites:
   - name: Digitalcheck Werkzeugfinder
     url: https://digitalcheck-tool-finder.prod.ds4g.net/
     maxResponseTime: 5000
+
+  - name: Track-Your-Time
+    url: https://track-your-time.dev.ds4g.net/
+    maxResponseTime: 5000
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
