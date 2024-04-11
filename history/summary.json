@@ -101,11 +101,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/digitalcheck-tool-finder.prod.ds4g.net.ico",
     "slug": "digitalcheck-werkzeugfinder",
     "status": "up",
-    "uptime": "97.57%",
+    "uptime": "97.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.57%",
-    "uptimeYear": "97.57%",
+    "uptimeMonth": "97.60%",
+    "uptimeYear": "97.60%",
     "time": 645,
     "timeDay": 859,
     "timeWeek": 687,
@@ -122,17 +122,19 @@
     "url": "https://track-your-time.dev.ds4g.net/",
     "icon": "https://icons.duckduckgo.com/ip3/track-your-time.dev.ds4g.net.ico",
     "slug": "track-your-time",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 824,
-    "timeDay": 1059,
-    "timeWeek": 824,
-    "timeMonth": 824,
-    "timeYear": 824,
-    "dailyMinutesDown": {}
+    "time": 804,
+    "timeDay": 849,
+    "timeWeek": 804,
+    "timeMonth": 804,
+    "timeYear": 804,
+    "dailyMinutesDown": {
+      "2024-04-11": 0
+    }
   }
 ]
