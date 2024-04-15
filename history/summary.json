@@ -40,18 +40,20 @@
     "url": "https://www.steuerlotse-rente.de/",
     "icon": "https://www.steuerlotse-rente.de/icons/favicon-7513565893cdbbe9a25aff1019125837.png",
     "slug": "stl-rente",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 505,
+    "time": 504,
     "timeDay": 475,
     "timeWeek": 559,
     "timeMonth": 432,
     "timeYear": 463,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-15": 0
+    }
   },
   {
     "name": "service.justiz.de",
@@ -101,11 +103,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/digitalcheck-tool-finder.prod.ds4g.net.ico",
     "slug": "digitalcheck-werkzeugfinder",
     "status": "up",
-    "uptime": "97.88%",
+    "uptime": "97.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.81%",
-    "uptimeYear": "97.88%",
+    "uptimeYear": "97.90%",
     "time": 641,
     "timeDay": 651,
     "timeWeek": 726,
