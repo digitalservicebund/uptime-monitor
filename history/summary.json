@@ -124,19 +124,19 @@
     "url": "https://track-your-time.dev.ds4g.net/",
     "icon": "https://icons.duckduckgo.com/ip3/track-your-time.dev.ds4g.net.ico",
     "slug": "track-your-time",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 742,
-    "timeDay": 591,
-    "timeWeek": 693,
-    "timeMonth": 742,
-    "timeYear": 742,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 741,
+    "timeDay": 632,
+    "timeWeek": 696,
+    "timeMonth": 741,
+    "timeYear": 741,
     "dailyMinutesDown": {
-      "2024-04-22": 0
+      "2024-04-22": 9
     }
   }
 ]
