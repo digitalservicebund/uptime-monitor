@@ -30,7 +30,7 @@ sites:
     maxResponseTime: 5000
 
   - name: Track-Your-Time
-    url: https://track-your-time.dev.ds4g.net/
+    url: https://track-your-time.prod.ds4g.net/
     maxResponseTime: 5000
     
 status-website:
