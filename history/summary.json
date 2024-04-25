@@ -60,18 +60,20 @@
     "url": "https://service.justiz.de/",
     "icon": "https://service.justiz.de/favicon.ico",
     "slug": "service-justiz-de",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 749,
-    "timeDay": 660,
-    "timeWeek": 799,
-    "timeMonth": 735,
-    "timeYear": 749,
-    "dailyMinutesDown": {}
+    "time": 772,
+    "timeDay": 3687,
+    "timeWeek": 1456,
+    "timeMonth": 911,
+    "timeYear": 772,
+    "dailyMinutesDown": {
+      "2024-04-25": 0
+    }
   },
   {
     "name": "Neuris",
@@ -124,19 +126,19 @@
     "url": "https://track-your-time.prod.ds4g.net/",
     "icon": "https://icons.duckduckgo.com/ip3/track-your-time.prod.ds4g.net.ico",
     "slug": "track-your-time",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1017,
-    "timeDay": 4445,
-    "timeWeek": 1385,
-    "timeMonth": 1017,
-    "timeYear": 1017,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1056,
+    "timeDay": 3691,
+    "timeWeek": 1446,
+    "timeMonth": 1056,
+    "timeYear": 1056,
     "dailyMinutesDown": {
-      "2024-04-25": 0
+      "2024-04-25": 12
     }
   }
 ]
