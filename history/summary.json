@@ -60,19 +60,19 @@
     "url": "https://service.justiz.de/",
     "icon": "https://service.justiz.de/favicon.ico",
     "slug": "service-justiz-de",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 772,
-    "timeDay": 3687,
-    "timeWeek": 1456,
-    "timeMonth": 911,
+    "timeDay": 2700,
+    "timeWeek": 1383,
+    "timeMonth": 906,
     "timeYear": 772,
     "dailyMinutesDown": {
-      "2024-04-25": 0
+      "2024-04-25": 9
     }
   },
   {
@@ -127,18 +127,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/track-your-time.prod.ds4g.net.ico",
     "slug": "track-your-time",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1056,
     "timeDay": 3691,
     "timeWeek": 1446,
     "timeMonth": 1056,
     "timeYear": 1056,
-    "dailyMinutesDown": {
-      "2024-04-25": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
