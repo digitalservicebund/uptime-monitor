@@ -60,11 +60,11 @@
     "url": "https://service.justiz.de/",
     "icon": "https://service.justiz.de/favicon.ico",
     "slug": "service-justiz-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 772,
     "timeDay": 2700,
@@ -72,7 +72,7 @@
     "timeMonth": 906,
     "timeYear": 772,
     "dailyMinutesDown": {
-      "2024-04-25": 9
+      "2024-04-25": 1
     }
   },
   {
