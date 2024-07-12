@@ -62,9 +62,9 @@
     "url": "https://service.justiz.de/",
     "icon": "https://service.justiz.de/favicon.ico",
     "slug": "service-justiz-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,7 +73,9 @@
     "timeWeek": 744,
     "timeMonth": 758,
     "timeYear": 786,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-12": 0
+    }
   },
   {
     "name": "Neuris",
