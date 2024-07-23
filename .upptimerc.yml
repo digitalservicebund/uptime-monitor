@@ -25,8 +25,12 @@ sites:
     url: https://ris.prod.ds4g.net/
     maxResponseTime: 5000
 
-  - name: Digitalcheck Werkzeugfinder
+  - name: Digitalcheck — Werkzeugfinder
     url: https://digitalcheck-tool-finder.prod.ds4g.net/
+    maxResponseTime: 5000
+    
+  - name: Digitalcheck — Digitaltaugliche Regelungen erarbeiten
+    url: https://erarbeiten.digitalcheck.bund.de/
     maxResponseTime: 5000
 
   - name: Track-Your-Time
