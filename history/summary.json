@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 691,
-    "timeDay": 422,
-    "timeWeek": 537,
-    "timeMonth": 482,
-    "timeYear": 592,
+    "timeDay": 398,
+    "timeWeek": 516,
+    "timeMonth": 478,
+    "timeYear": 591,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1566,
-    "timeDay": 1307,
-    "timeWeek": 1550,
-    "timeMonth": 1565,
-    "timeYear": 1601,
+    "time": 1567,
+    "timeDay": 1468,
+    "timeWeek": 1576,
+    "timeMonth": 1572,
+    "timeYear": 1602,
     "dailyMinutesDown": {
       "2024-05-17": 17
     }
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 459,
-    "timeDay": 415,
-    "timeWeek": 510,
-    "timeMonth": 466,
+    "timeDay": 394,
+    "timeWeek": 493,
+    "timeMonth": 463,
     "timeYear": 455,
     "dailyMinutesDown": {
       "2024-04-15": 79
@@ -69,9 +69,9 @@
     "uptimeMonth": "89.77%",
     "uptimeYear": "99.05%",
     "time": 787,
-    "timeDay": 626,
-    "timeWeek": 836,
-    "timeMonth": 776,
+    "timeDay": 622,
+    "timeWeek": 811,
+    "timeMonth": 771,
     "timeYear": 787,
     "dailyMinutesDown": {
       "2024-07-15": 925,
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.11%",
-    "time": 665,
-    "timeDay": 593,
-    "timeWeek": 745,
-    "timeMonth": 709,
-    "timeYear": 665,
+    "time": 664,
+    "timeDay": 564,
+    "timeWeek": 718,
+    "timeMonth": 703,
+    "timeYear": 664,
     "dailyMinutesDown": {
       "2024-03-22": 548,
       "2024-03-21": 1413,
@@ -105,7 +105,7 @@
     }
   },
   {
-    "name": "Digitalcheck — Werkzeugfinder",
+    "name": "Digitalcheck Werkzeugfinder",
     "url": "https://digitalcheck-tool-finder.prod.ds4g.net/",
     "icon": "https://icons.duckduckgo.com/ip3/digitalcheck-tool-finder.prod.ds4g.net.ico",
     "slug": "digitalcheck-werkzeugfinder",
@@ -116,9 +116,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
     "time": 678,
-    "timeDay": 607,
-    "timeWeek": 768,
-    "timeMonth": 694,
+    "timeDay": 609,
+    "timeWeek": 750,
+    "timeMonth": 691,
     "timeYear": 678,
     "dailyMinutesDown": {
       "2024-03-27": 625,
@@ -127,21 +127,21 @@
     }
   },
   {
-    "name": "Digitalcheck — Digitaltaugliche Regelungen erarbeiten",
+    "name": "Digitalcheck Regelungen erarbeiten",
     "url": "https://erarbeiten.digitalcheck.bund.de/",
     "icon": "https://icons.duckduckgo.com/ip3/erarbeiten.digitalcheck.bund.de.ico",
-    "slug": "digitalcheck-digitaltaugliche-regelungen-erarbeiten",
+    "slug": "digitalcheck-regelungen-erarbeiten",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1596,
-    "timeDay": 1596,
-    "timeWeek": 1596,
-    "timeMonth": 1596,
-    "timeYear": 1596,
+    "time": 958,
+    "timeDay": 958,
+    "timeWeek": 958,
+    "timeMonth": 958,
+    "timeYear": 958,
     "dailyMinutesDown": {}
   },
   {
@@ -155,11 +155,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 871,
-    "timeDay": 698,
-    "timeWeek": 845,
-    "timeMonth": 794,
-    "timeYear": 871,
+    "time": 868,
+    "timeDay": 638,
+    "timeWeek": 809,
+    "timeMonth": 785,
+    "timeYear": 868,
     "dailyMinutesDown": {}
   }
 ]
