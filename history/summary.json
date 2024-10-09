@@ -43,9 +43,9 @@
     "url": "https://www.steuerlotse-rente.de/",
     "icon": "https://www.steuerlotse-rente.de/icons/favicon-7513565893cdbbe9a25aff1019125837.png",
     "slug": "stl-rente",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -55,6 +55,7 @@
     "timeMonth": 609,
     "timeYear": 468,
     "dailyMinutesDown": {
+      "2024-10-09": 0,
       "2024-04-15": 79
     }
   },
@@ -64,7 +65,7 @@
     "icon": "https://service.justiz.de/favicon.ico",
     "slug": "service-justiz-de",
     "status": "up",
-    "uptime": "99.23%",
+    "uptime": "99.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
