@@ -5,7 +5,7 @@
     "icon": "https://www.grundsteuererklaerung-fuer-privateigentum.de/favicon.ico",
     "slug": "grundsteuer",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -43,9 +43,9 @@
     "url": "https://www.steuerlotse-rente.de/",
     "icon": "https://www.steuerlotse-rente.de/icons/favicon-7513565893cdbbe9a25aff1019125837.png",
     "slug": "stl-rente",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.94%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.96%",
@@ -55,6 +55,7 @@
     "timeMonth": 650,
     "timeYear": 475,
     "dailyMinutesDown": {
+      "2024-10-19": 0,
       "2024-10-14": 107,
       "2024-04-15": 79
     }
