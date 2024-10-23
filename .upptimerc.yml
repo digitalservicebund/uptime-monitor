@@ -15,7 +15,11 @@ sites:
     url: https://www.steuerlotse-rente.de/
     icon: https://www.steuerlotse-rente.de/icons/favicon-7513565893cdbbe9a25aff1019125837.png
     maxResponseTime: 5000
-
+    # Fix alert noise. More details here: https://github.com/digitalservicebund/platform/issues/494
+    expectedStatusCodes:
+      - 200
+      - 0
+    
   - name: service.justiz.de
     url: https://service.justiz.de/
     icon: https://service.justiz.de/favicon.ico
