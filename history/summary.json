@@ -64,11 +64,11 @@
     "url": "https://service.justiz.de/",
     "icon": "https://service.justiz.de/favicon.ico",
     "slug": "service-justiz-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.15%",
     "time": 848,
     "timeDay": 831,
@@ -76,6 +76,7 @@
     "timeMonth": 985,
     "timeYear": 874,
     "dailyMinutesDown": {
+      "2024-12-12": 2,
       "2024-07-15": 925,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
@@ -87,10 +88,10 @@
     "url": "https://ris.prod.ds4g.net/",
     "icon": "https://icons.duckduckgo.com/ip3/ris.prod.ds4g.net.ico",
     "slug": "neuris",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.26%",
     "time": 675,
@@ -99,6 +100,7 @@
     "timeMonth": 684,
     "timeYear": 679,
     "dailyMinutesDown": {
+      "2024-12-12": 2,
       "2024-03-22": 548,
       "2024-03-21": 1413,
       "2024-03-20": 1136,
@@ -111,10 +113,10 @@
     "url": "https://digitalcheck-tool-finder.prod.ds4g.net/",
     "icon": "https://icons.duckduckgo.com/ip3/digitalcheck-tool-finder.prod.ds4g.net.ico",
     "slug": "digitalcheck-werkzeugfinder",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 683,
@@ -123,6 +125,7 @@
     "timeMonth": 659,
     "timeYear": 683,
     "dailyMinutesDown": {
+      "2024-12-12": 1,
       "2024-03-27": 625,
       "2024-03-26": 304,
       "2024-03-20": 30
@@ -133,10 +136,10 @@
     "url": "https://erarbeiten.digitalcheck.bund.de/",
     "icon": "https://icons.duckduckgo.com/ip3/erarbeiten.digitalcheck.bund.de.ico",
     "slug": "digitalcheck-regelungen-erarbeiten",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1471,
@@ -144,16 +147,18 @@
     "timeWeek": 1240,
     "timeMonth": 1393,
     "timeYear": 1471,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-12": 1
+    }
   },
   {
     "name": "Track-Your-Time",
     "url": "https://track-your-time.prod.ds4g.net/",
     "icon": "https://icons.duckduckgo.com/ip3/track-your-time.prod.ds4g.net.ico",
     "slug": "track-your-time",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -162,6 +167,8 @@
     "timeWeek": 749,
     "timeMonth": 750,
     "timeYear": 819,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-12": 0
+    }
   }
 ]
