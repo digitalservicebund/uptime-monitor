@@ -41,8 +41,16 @@ sites:
     url: https://track-your-time.prod.ds4g.net/
     maxResponseTime: 5000
 
+  - name: Metabase
+    url: https://kpi.digitalservice.dev/
+    maxResponseTime: 5000
+
   - name: N8N
     url: https://metrics.ds4g.dev:56780/
+    maxResponseTime: 5000
+
+  - name: NocoDB
+    url: https://metrics.ds4g.dev:38081/
     maxResponseTime: 5000
     
 status-website:
