@@ -154,18 +154,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kpi.digitalservice.dev.ico",
     "slug": "metabase",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.95%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 1241,
     "timeDay": 1292,
     "timeWeek": 1195,
     "timeMonth": 1241,
     "timeYear": 1241,
     "dailyMinutesDown": {
-      "2025-03-07": 2
+      "2025-03-07": 14
     }
   },
   {
@@ -173,19 +173,19 @@
     "url": "https://metrics.ds4g.dev:56780/",
     "icon": "https://icons.duckduckgo.com/ip3/metrics.ds4g.dev.ico",
     "slug": "n8-n",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 515,
-    "timeDay": 455,
-    "timeWeek": 442,
-    "timeMonth": 515,
-    "timeYear": 515,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 567,
+    "timeDay": 1059,
+    "timeWeek": 595,
+    "timeMonth": 567,
+    "timeYear": 567,
     "dailyMinutesDown": {
-      "2025-03-07": 1
+      "2025-03-07": 13
     }
   },
   {
@@ -193,19 +193,19 @@
     "url": "https://metrics.ds4g.dev:38081/",
     "icon": "https://icons.duckduckgo.com/ip3/metrics.ds4g.dev.ico",
     "slug": "noco-db",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 720,
-    "timeDay": 702,
-    "timeWeek": 695,
-    "timeMonth": 720,
-    "timeYear": 720,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 727,
+    "timeDay": 783,
+    "timeWeek": 716,
+    "timeMonth": 727,
+    "timeYear": 727,
     "dailyMinutesDown": {
-      "2025-03-07": 0
+      "2025-03-07": 12
     }
   }
 ]
