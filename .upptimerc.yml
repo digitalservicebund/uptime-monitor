@@ -40,14 +40,26 @@ sites:
   - name: Metabase
     url: https://kpi.digitalservice.dev/
     maxResponseTime: 5000
+    # Fix alert noise. More details here: https://github.com/digitalservicebund/platform/issues/494
+    expectedStatusCodes:
+      - 200
+      - 0
 
   - name: N8N
     url: https://metrics.ds4g.dev:56780/
     maxResponseTime: 5000
+    # Fix alert noise. More details here: https://github.com/digitalservicebund/platform/issues/494
+    expectedStatusCodes:
+      - 200
+      - 0
 
   - name: NocoDB
     url: https://metrics.ds4g.dev:38081/
     maxResponseTime: 5000
+    # Fix alert noise. More details here: https://github.com/digitalservicebund/platform/issues/494
+    expectedStatusCodes:
+      - 200
+      - 0
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
