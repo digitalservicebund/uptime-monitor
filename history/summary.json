@@ -153,28 +153,30 @@
     "url": "https://kpi.digitalservice.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/kpi.digitalservice.dev.ico",
     "slug": "metabase",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1241,
     "timeDay": 1292,
     "timeWeek": 1195,
     "timeMonth": 1241,
     "timeYear": 1241,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-07": 2
+    }
   },
   {
     "name": "N8N",
     "url": "https://metrics.ds4g.dev:56780/",
     "icon": "https://icons.duckduckgo.com/ip3/metrics.ds4g.dev.ico",
     "slug": "n8-n",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 515,
@@ -182,16 +184,18 @@
     "timeWeek": 442,
     "timeMonth": 515,
     "timeYear": 515,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-07": 1
+    }
   },
   {
     "name": "NocoDB",
     "url": "https://metrics.ds4g.dev:38081/",
     "icon": "https://icons.duckduckgo.com/ip3/metrics.ds4g.dev.ico",
     "slug": "noco-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -200,6 +204,8 @@
     "timeWeek": 695,
     "timeMonth": 720,
     "timeYear": 720,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-07": 0
+    }
   }
 ]
