@@ -153,19 +153,19 @@
     "url": "https://kpi.digitalservice.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/kpi.digitalservice.dev.ico",
     "slug": "metabase",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 1241,
-    "timeDay": 1292,
-    "timeWeek": 1195,
-    "timeMonth": 1241,
-    "timeYear": 1241,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 1305,
+    "timeDay": 1942,
+    "timeWeek": 1370,
+    "timeMonth": 1305,
+    "timeYear": 1305,
     "dailyMinutesDown": {
-      "2025-03-07": 14
+      "2025-03-07": 23
     }
   },
   {
@@ -174,38 +174,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/metrics.ds4g.dev.ico",
     "slug": "n8-n",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 567,
     "timeDay": 1059,
     "timeWeek": 595,
     "timeMonth": 567,
     "timeYear": 567,
-    "dailyMinutesDown": {
-      "2025-03-07": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "NocoDB",
     "url": "https://metrics.ds4g.dev:38081/",
     "icon": "https://icons.duckduckgo.com/ip3/metrics.ds4g.dev.ico",
     "slug": "noco-db",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 727,
     "timeDay": 783,
     "timeWeek": 716,
     "timeMonth": 727,
     "timeYear": 727,
     "dailyMinutesDown": {
-      "2025-03-07": 12
+      "2025-03-07": 0
     }
   }
 ]
