@@ -1,7 +1,7 @@
 url: https://kpi.digitalservice.dev/
-status: degraded
+status: up
 code: 200
-responseTime: 22783
-lastUpdated: 2025-04-25T17:40:52.230Z
+responseTime: 1724
+lastUpdated: 2025-04-25T17:48:38.871Z
 startTime: 2025-02-17T12:00:07.368Z
 generator: Upptime <https://github.com/upptime/upptime>
