@@ -147,11 +147,11 @@
     "url": "https://kpi.digitalservice.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/kpi.digitalservice.dev.ico",
     "slug": "metabase",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.93%",
     "time": 3980,
     "timeDay": 12749,
@@ -159,7 +159,7 @@
     "timeMonth": 6232,
     "timeYear": 3980,
     "dailyMinutesDown": {
-      "2025-04-27": 0,
+      "2025-04-27": 9,
       "2025-03-07": 65
     }
   },
