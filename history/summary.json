@@ -4,18 +4,20 @@
     "url": "https://www.grundsteuererklaerung-fuer-privateigentum.de/?check=upptime",
     "icon": "https://www.grundsteuererklaerung-fuer-privateigentum.de/favicon.ico",
     "slug": "grundsteuer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 488,
     "timeDay": 358,
     "timeWeek": 495,
     "timeMonth": 470,
-    "timeYear": 477,
-    "dailyMinutesDown": {}
+    "timeYear": 476,
+    "dailyMinutesDown": {
+      "2025-07-08": 2
+    }
   },
   {
     "name": "DigitalService Website",
@@ -87,18 +89,19 @@
     "url": "https://ris.prod.ds4g.net/",
     "icon": "https://icons.duckduckgo.com/ip3/ris.prod.ds4g.net.ico",
     "slug": "neuris",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.96%",
-    "time": 697,
+    "time": 698,
     "timeDay": 508,
     "timeWeek": 683,
     "timeMonth": 713,
     "timeYear": 702,
     "dailyMinutesDown": {
+      "2025-07-08": 1,
       "2025-06-27": 40,
       "2025-06-23": 53,
       "2024-12-12": 97
@@ -109,10 +112,10 @@
     "url": "https://erarbeiten.digitalcheck.bund.de/",
     "icon": "https://icons.duckduckgo.com/ip3/erarbeiten.digitalcheck.bund.de.ico",
     "slug": "digitalcheck-regelungen-erarbeiten",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1577,
@@ -121,6 +124,7 @@
     "timeMonth": 1694,
     "timeYear": 1577,
     "dailyMinutesDown": {
+      "2025-07-08": 1,
       "2024-12-12": 96
     }
   },
@@ -129,9 +133,9 @@
     "url": "https://track-your-time.prod.ds4g.net/",
     "icon": "https://icons.duckduckgo.com/ip3/track-your-time.prod.ds4g.net.ico",
     "slug": "track-your-time",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -141,6 +145,7 @@
     "timeMonth": 782,
     "timeYear": 790,
     "dailyMinutesDown": {
+      "2025-07-08": 0,
       "2024-12-12": 95
     }
   },
