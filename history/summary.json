@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 476,
-    "timeDay": 350,
-    "timeWeek": 521,
-    "timeMonth": 504,
-    "timeYear": 479,
+    "time": 477,
+    "timeDay": 655,
+    "timeWeek": 558,
+    "timeMonth": 511,
+    "timeYear": 480,
     "dailyMinutesDown": {}
   },
   {
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1666,
-    "timeDay": 1055,
-    "timeWeek": 1773,
-    "timeMonth": 1750,
+    "time": 1667,
+    "timeDay": 1507,
+    "timeWeek": 1711,
+    "timeMonth": 1742,
     "timeYear": 1685,
     "dailyMinutesDown": {
       "2024-08-20": 32
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 498,
-    "timeDay": 378,
-    "timeWeek": 538,
-    "timeMonth": 487,
+    "timeDay": 496,
+    "timeWeek": 558,
+    "timeMonth": 491,
     "timeYear": 511,
     "dailyMinutesDown": {
       "2024-10-14": 107
@@ -63,16 +63,16 @@
     "icon": "https://service.justiz.de/favicon.ico",
     "slug": "service-justiz-de",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 979,
-    "timeDay": 718,
-    "timeWeek": 1010,
-    "timeMonth": 975,
-    "timeYear": 1021,
+    "time": 980,
+    "timeDay": 1329,
+    "timeWeek": 1075,
+    "timeMonth": 988,
+    "timeYear": 1022,
     "dailyMinutesDown": {
       "2025-07-08": 24,
       "2024-12-12": 97
@@ -90,10 +90,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 701,
-    "timeDay": 593,
-    "timeWeek": 704,
-    "timeMonth": 685,
-    "timeYear": 703,
+    "timeDay": 969,
+    "timeWeek": 771,
+    "timeMonth": 695,
+    "timeYear": 704,
     "dailyMinutesDown": {
       "2025-06-27": 40,
       "2025-06-23": 53,
@@ -112,10 +112,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1588,
-    "timeDay": 816,
-    "timeWeek": 1539,
-    "timeMonth": 1706,
-    "timeYear": 1596,
+    "timeDay": 1627,
+    "timeWeek": 1525,
+    "timeMonth": 1717,
+    "timeYear": 1597,
     "dailyMinutesDown": {
       "2024-12-12": 96
     }
@@ -131,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 810,
-    "timeDay": 699,
-    "timeWeek": 780,
-    "timeMonth": 797,
-    "timeYear": 790,
+    "time": 811,
+    "timeDay": 1137,
+    "timeWeek": 832,
+    "timeMonth": 810,
+    "timeYear": 792,
     "dailyMinutesDown": {
       "2024-12-12": 95
     }
@@ -151,11 +151,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2624,
-    "timeDay": 989,
-    "timeWeek": 1242,
-    "timeMonth": 1228,
-    "timeYear": 2624,
+    "time": 2619,
+    "timeDay": 1682,
+    "timeWeek": 1347,
+    "timeMonth": 1250,
+    "timeYear": 2619,
     "dailyMinutesDown": {
       "2025-03-07": 65
     }
@@ -171,11 +171,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 527,
-    "timeDay": 391,
-    "timeWeek": 465,
-    "timeMonth": 500,
-    "timeYear": 527,
+    "time": 528,
+    "timeDay": 688,
+    "timeWeek": 510,
+    "timeMonth": 508,
+    "timeYear": 528,
     "dailyMinutesDown": {
       "2025-03-07": 42
     }
@@ -191,11 +191,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 753,
-    "timeDay": 587,
-    "timeWeek": 742,
-    "timeMonth": 696,
-    "timeYear": 753,
+    "time": 755,
+    "timeDay": 959,
+    "timeWeek": 801,
+    "timeMonth": 710,
+    "timeYear": 755,
     "dailyMinutesDown": {
       "2025-03-07": 19
     }
