@@ -22,18 +22,20 @@
     "url": "https://digitalservice.bund.de/",
     "icon": "https://icons.duckduckgo.com/ip3/digitalservice.bund.de.ico",
     "slug": "digital-service-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1669,
-    "timeDay": 1482,
-    "timeWeek": 2101,
-    "timeMonth": 1846,
-    "timeYear": 1695,
-    "dailyMinutesDown": {}
+    "time": 1666,
+    "timeDay": 1186,
+    "timeWeek": 1950,
+    "timeMonth": 1816,
+    "timeYear": 1692,
+    "dailyMinutesDown": {
+      "2025-08-22": 0
+    }
   },
   {
     "name": "STL-Rente",
