@@ -33,10 +33,6 @@ sites:
     url: https://erarbeiten.digitalcheck.bund.de/
     maxResponseTime: 5000
 
-  - name: Track-Your-Time
-    url: https://track-your-time.prod.ds4g.net/
-    maxResponseTime: 5000
-
   - name: Metabase
     url: https://kpi.digitalservice.dev/
     maxResponseTime: 5000
