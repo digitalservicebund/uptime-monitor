@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 478,
     "timeDay": 397,
-    "timeWeek": 432,
+    "timeWeek": 405,
     "timeMonth": 471,
     "timeYear": 482,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "99.99%",
     "time": 1718,
     "timeDay": 2535,
-    "timeWeek": 2517,
+    "timeWeek": 2500,
     "timeMonth": 2481,
     "timeYear": 1772,
     "dailyMinutesDown": {
@@ -51,7 +51,7 @@
     "uptimeYear": "99.98%",
     "time": 498,
     "timeDay": 451,
-    "timeWeek": 452,
+    "timeWeek": 429,
     "timeMonth": 475,
     "timeYear": 509,
     "dailyMinutesDown": {
@@ -63,18 +63,19 @@
     "url": "https://service.justiz.de/",
     "icon": "https://service.justiz.de/favicon.ico",
     "slug": "service-justiz-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 978,
-    "timeDay": 918,
-    "timeWeek": 950,
-    "timeMonth": 965,
-    "timeYear": 1028,
+    "timeDay": 820,
+    "timeWeek": 901,
+    "timeMonth": 958,
+    "timeYear": 1027,
     "dailyMinutesDown": {
+      "2025-09-10": 0,
       "2025-07-08": 24,
       "2024-12-12": 97
     }
@@ -92,7 +93,7 @@
     "uptimeYear": "99.96%",
     "time": 704,
     "timeDay": 494,
-    "timeWeek": 738,
+    "timeWeek": 680,
     "timeMonth": 727,
     "timeYear": 708,
     "dailyMinutesDown": {
@@ -114,7 +115,7 @@
     "uptimeYear": "99.98%",
     "time": 1634,
     "timeDay": 3252,
-    "timeWeek": 2404,
+    "timeWeek": 2388,
     "timeMonth": 2169,
     "timeYear": 1666,
     "dailyMinutesDown": {
@@ -134,7 +135,7 @@
     "uptimeYear": "99.98%",
     "time": 2375,
     "timeDay": 1124,
-    "timeWeek": 1180,
+    "timeWeek": 1105,
     "timeMonth": 1249,
     "timeYear": 2375,
     "dailyMinutesDown": {
@@ -154,7 +155,7 @@
     "uptimeYear": "99.99%",
     "time": 519,
     "timeDay": 397,
-    "timeWeek": 463,
+    "timeWeek": 442,
     "timeMonth": 490,
     "timeYear": 519,
     "dailyMinutesDown": {
@@ -174,7 +175,7 @@
     "uptimeYear": "99.99%",
     "time": 743,
     "timeDay": 566,
-    "timeWeek": 674,
+    "timeWeek": 632,
     "timeMonth": 703,
     "timeYear": 743,
     "dailyMinutesDown": {
