@@ -29,8 +29,12 @@ sites:
     url: https://ris.prod.ds4g.net/
     maxResponseTime: 5000
 
-  - name: Digitalcheck Regelungen erarbeiten
-    url: https://erarbeiten.digitalcheck.bund.de/
+  - name: Zentrum für Legistik
+    url: https://zfl.bund.de/
+    maxResponseTime: 5000
+
+  - name: Digitalcheck
+    url: https://digitalcheck.bund.de/
     maxResponseTime: 5000
 
   - name: Metabase
