@@ -104,19 +104,19 @@
     "url": "https://zfl.bund.de/",
     "icon": "https://icons.duckduckgo.com/ip3/zfl.bund.de.ico",
     "slug": "zentrum-fuer-legistik",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1339,
-    "timeDay": 1127,
-    "timeWeek": 1339,
-    "timeMonth": 1339,
-    "timeYear": 1339,
+    "status": "up",
+    "uptime": "99.27%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.27%",
+    "time": 1494,
+    "timeDay": 1456,
+    "timeWeek": 1494,
+    "timeMonth": 1494,
+    "timeYear": 1494,
     "dailyMinutesDown": {
-      "2026-01-29": 0
+      "2026-01-29": 19
     }
   },
   {
