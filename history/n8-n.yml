@@ -1,7 +1,7 @@
 url: https://metrics.ds4g.dev:56780/
-status: down
-code: 502
-responseTime: 533
-lastUpdated: 2026-02-27T10:45:05.945Z
+status: up
+code: 200
+responseTime: 780
+lastUpdated: 2026-02-27T11:04:05.821Z
 startTime: 2025-02-17T11:52:10.037Z
 generator: Upptime <https://github.com/upptime/upptime>
