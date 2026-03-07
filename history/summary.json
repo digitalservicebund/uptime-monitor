@@ -11,8 +11,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 500,
-    "timeDay": 654,
-    "timeWeek": 492,
+    "timeDay": 361,
+    "timeWeek": 488,
     "timeMonth": 543,
     "timeYear": 517,
     "dailyMinutesDown": {
@@ -31,11 +31,11 @@
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.96%",
-    "time": 1932,
-    "timeDay": 1621,
-    "timeWeek": 1507,
-    "timeMonth": 1707,
-    "timeYear": 1992,
+    "time": 1933,
+    "timeDay": 1758,
+    "timeWeek": 1524,
+    "timeMonth": 1705,
+    "timeYear": 1994,
     "dailyMinutesDown": {
       "2026-03-03": 24,
       "2026-02-19": 32,
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 493,
-    "timeDay": 734,
-    "timeWeek": 501,
-    "timeMonth": 497,
-    "timeYear": 497,
+    "time": 501,
+    "timeDay": 4653,
+    "timeWeek": 1104,
+    "timeMonth": 654,
+    "timeYear": 508,
     "dailyMinutesDown": {}
   },
   {
@@ -75,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1093,
-    "timeDay": 1543,
-    "timeWeek": 1504,
-    "timeMonth": 1347,
-    "timeYear": 1113,
+    "time": 1095,
+    "timeDay": 1603,
+    "timeWeek": 1502,
+    "timeMonth": 1365,
+    "timeYear": 1115,
     "dailyMinutesDown": {
       "2025-12-16": 16,
       "2025-12-15": 30,
@@ -97,11 +97,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 714,
-    "timeDay": 889,
-    "timeWeek": 687,
-    "timeMonth": 745,
-    "timeYear": 722,
+    "time": 715,
+    "timeDay": 926,
+    "timeWeek": 728,
+    "timeMonth": 754,
+    "timeYear": 723,
     "dailyMinutesDown": {
       "2026-02-11": 20,
       "2026-01-29": 18,
@@ -115,16 +115,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zfl.bund.de.ico",
     "slug": "zentrum-fuer-legistik",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 1211,
-    "timeDay": 849,
-    "timeWeek": 1129,
-    "timeMonth": 1177,
-    "timeYear": 1211,
+    "uptimeYear": "99.97%",
+    "time": 1203,
+    "timeDay": 841,
+    "timeWeek": 987,
+    "timeMonth": 1168,
+    "timeYear": 1203,
     "dailyMinutesDown": {
       "2026-01-29": 19
     }
@@ -140,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1225,
-    "timeDay": 1152,
-    "timeWeek": 1169,
-    "timeMonth": 1238,
-    "timeYear": 1225,
+    "time": 1220,
+    "timeDay": 1031,
+    "timeWeek": 1084,
+    "timeMonth": 1245,
+    "timeYear": 1220,
     "dailyMinutesDown": {}
   },
   {
@@ -158,14 +158,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1902,
-    "timeDay": 1582,
-    "timeWeek": 1176,
-    "timeMonth": 1257,
-    "timeYear": 1934,
-    "dailyMinutesDown": {
-      "2025-03-07": 65
-    }
+    "time": 1901,
+    "timeDay": 1590,
+    "timeWeek": 1268,
+    "timeMonth": 1274,
+    "timeYear": 1935,
+    "dailyMinutesDown": {}
   },
   {
     "name": "N8N",
@@ -175,18 +173,17 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 535,
-    "timeDay": 839,
-    "timeWeek": 600,
-    "timeMonth": 620,
-    "timeYear": 535,
+    "timeDay": 763,
+    "timeWeek": 627,
+    "timeMonth": 624,
+    "timeYear": 536,
     "dailyMinutesDown": {
       "2026-02-27": 19,
-      "2025-12-25": 26,
-      "2025-03-07": 42
+      "2025-12-25": 26
     }
   },
   {
@@ -200,13 +197,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 739,
-    "timeDay": 1004,
-    "timeWeek": 709,
-    "timeMonth": 732,
-    "timeYear": 740,
-    "dailyMinutesDown": {
-      "2025-03-07": 19
-    }
+    "time": 740,
+    "timeDay": 1046,
+    "timeWeek": 760,
+    "timeMonth": 747,
+    "timeYear": 741,
+    "dailyMinutesDown": {}
   }
 ]
