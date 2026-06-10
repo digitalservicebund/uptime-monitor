@@ -1,3 +1,5 @@
+# :warning: Deprecated! Please use [status.digitalservice.dev](https://status.digitalservice.dev) instead
+
 # [📈 Live Status](https://digitalservicebund.github.io/uptime-monitor): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [DigitalService GmbH des Bundes](https://digitalservice.bund.de), powered by [Upptime](https://github.com/upptime/upptime).
